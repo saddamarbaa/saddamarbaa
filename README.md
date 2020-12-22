@@ -44,7 +44,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithSaddam&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamarbaa&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSaddam&theme=buefy&layout=compact" />
 </a>
 
