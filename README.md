@@ -1,17 +1,16 @@
-### Hi there 👋
-<h2> Hey there! I'm Saddam Arbaa.</h2>
+###
+<h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
 I'm a self-taught front-end developer who is passionate about writing code, solving problems, automating stuff, building react App.
-
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; I’m currently learning Typescript, Node.js, React and React Native.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-- 🎓 &nbsp; Studying Profit with JavaScript   at https://www.cleverprogrammer.com/.
-- 🎓 &nbsp; Studying Profit with JavaScript   at https://www.edx.org/course/cs50s-introduction-to-computer-science.
-- 🌱 &nbsp; Learning more about Data Structures and Algorithms.
+- 🎓 &nbsp; Studying Profit with JavaScript Course at https://www.cleverprogrammer.com/.
+- 🎓 &nbsp; HarvardX: CS50 Course at https://www.edx.org/course/cs50s-introduction-to-computer-science.
+- 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
 - ⚡ &nbsp; Fun fact:  First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
