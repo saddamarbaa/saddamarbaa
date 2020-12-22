@@ -1,8 +1,3 @@
-
-
-<!--
-**saddamarbaa/saddamarbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
 <h2> Hey there! I'm Saddam Arbaa.</h2>
 
