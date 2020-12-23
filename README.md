@@ -62,12 +62,12 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.facebook.com/saddam.arbaa"><img alt="Email" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/"></a>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
+
 
 
 
