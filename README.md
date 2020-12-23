@@ -53,7 +53,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/saddam_arbaa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saddam_arbaa__-blue?style=flat-square&logo=instagram"></a>
@@ -67,6 +67,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 
 
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+
 
 
 
