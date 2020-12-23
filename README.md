@@ -56,7 +56,6 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 <p align="center">
 <a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
 <a href="https://www.facebook.com/saddam.arbaa"><img alt="Email" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/"></a>
 <a href="https://www.instagram.com/saddam_arbaa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saddam_arbaa__-blue?style=flat-square&logo=instagram"></a>
 
