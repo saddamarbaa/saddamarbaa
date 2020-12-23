@@ -54,22 +54,17 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/saddam.arbaa"><img alt="Email" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/"></a>
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/saddam.arbaa"><img alt="Email" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 
-
-<br/>
-<p>
-<a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/"></a>
-</p>
-</br>
+>
 
 
 
