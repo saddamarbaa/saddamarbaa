@@ -69,7 +69,7 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 -->
 
-# latest Blog posts
+<!-- # latest Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
