@@ -1,7 +1,7 @@
 ###
 <h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
-I'm a self-taught front-end developer who is passionate about writing code, solving problems, automating stuff, building react App.
+I'm a self-taught front-end web developer who is passionate about writing code, solving problems, automating stuff, building react App.
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
 
