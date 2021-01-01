@@ -2,13 +2,13 @@
 
 <h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
-I'm a self-taught front-end web developer who is passionate about writing code, solving problems, automating stuff, building react App.
+I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App.
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
-- 🌱 &nbsp; Always Learning more about Node.js, React, React Native, Typescript and Functional Programming.
+- 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
 - 🎓 &nbsp; Studying Profit with JavaScript Course at https://www.cleverprogrammer.com/.
 - 🎓 &nbsp; Studying CS50: Harvard University's introduction to Computer Science at https://www.edx.org/course/cs50s-introduction-to-computer-science.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
