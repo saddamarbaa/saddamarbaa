@@ -4,7 +4,7 @@
 
 I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App.
 
-<h3> 👨🏻‍💻 &nbsp; More About Me </h3>
+<h3>  💻 &nbsp; More About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
