@@ -16,6 +16,7 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 - 🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+- 🎓 &nbsp; I love teaching & connecting with amazing people.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
