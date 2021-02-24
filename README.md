@@ -2,7 +2,7 @@
 
 <h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
-I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App.
+I'm a self-taught Fullstack Web developer who is passionate about writing code, solving problems, building react App.
 
 <h3>  💻 &nbsp; More About Me </h3>
 
