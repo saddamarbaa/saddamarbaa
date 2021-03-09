@@ -6,6 +6,7 @@ I'm a self-taught Fullstack Web developer who is passionate about writing code, 
 
 <h3>  💻 &nbsp; More About Me </h3>
 
+- 📝 &nbsp; Documenting my coding journey.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
 - 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
@@ -17,6 +18,7 @@ I'm a self-taught Fullstack Web developer who is passionate about writing code, 
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 - 🎓 &nbsp; I love teaching & connecting with amazing people.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
