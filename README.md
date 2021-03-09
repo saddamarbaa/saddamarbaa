@@ -5,6 +5,7 @@
 I'm a self-taught Fullstack Web developer who is passionate about writing code, solving problems, building react App.
 
 <h3>  💻 &nbsp; More About Me </h3>
+
 - 💻 &nbsp; Coding mentor.
 - 📝 &nbsp; Documenting my coding journey.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
