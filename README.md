@@ -12,10 +12,6 @@ I always ensure the fast delivery of the functional well organized and clean cod
 the appropriate Programming language and frameworks.
 
 <h3>  💻 &nbsp; More About Me </h3>
-
- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
-</p>
-
 - 💻 &nbsp; Coding mentor.
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 📝 &nbsp; Documenting my coding journey.
@@ -90,5 +86,4 @@ the appropriate Programming language and frameworks.
 <!-- BLOG-POST-LIST:END -->
 
 
- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
-</p>
+ 
