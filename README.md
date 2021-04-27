@@ -82,7 +82,5 @@ the appropriate Programming language and frameworks.
 <!-- BLOG-POST-LIST:END -->
 
 
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773"><img src="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
-</div>
+ <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
+</p>
