@@ -10,7 +10,6 @@ I always ensure the fast delivery of the functional well organized and clean cod
 - 💻 &nbsp; Coding mentor.
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 📝 &nbsp; Documenting my coding journey.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
 - 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
 - 🎓 &nbsp; Studying Profit with JavaScript Course at https://www.cleverprogrammer.com/.
