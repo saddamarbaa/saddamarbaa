@@ -2,7 +2,8 @@
 
 <h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
-I'm a self-taught Fullstack Web developer who is passionate about writing code, solving problems, building react App.
+I am an enthusiastic software developer, hard worker, problem solver and fast learner. 
+I always ensure the fast delivery of the functional well organized and clean code using the appropriate Programming language and frameworks.
 
 <h3>  💻 &nbsp; More About Me </h3>
 
