@@ -7,6 +7,7 @@ I'm a self-taught Fullstack Web developer who is passionate about writing code, 
 <h3>  💻 &nbsp; More About Me </h3>
 
 - 💻 &nbsp; Coding mentor.
+- ✍🏻 Decent competitive programming, DSA, Algo skills.
 - 📝 &nbsp; Documenting my coding journey.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
