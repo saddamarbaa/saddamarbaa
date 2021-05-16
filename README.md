@@ -76,7 +76,7 @@
 <!--TODO -->
 <!-- will add my webside blow here  -->
 
-<a href="https://saddamarbaa-blog.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://saddamarbaa-blog.netlify.app/">Blog posts</a>
 
 
 <!-- # latest Blog posts -->
