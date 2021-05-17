@@ -22,7 +22,7 @@
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - 🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
-- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
