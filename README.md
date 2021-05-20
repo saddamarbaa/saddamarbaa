@@ -53,7 +53,8 @@
 
 <br/>
 
-## ⚙️ &nbsp;GitHub Analytics:
+
+<h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamarbaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -73,7 +74,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/ArbaaSaddam/)
-
 </p>
 
 <!--TODO -->
@@ -88,13 +88,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
- 
-## ⚙️ &nbsp;GitHub Analytics:
-<p align="center">
- <a href="https://github.com/AVS1508">
- 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saddamarbaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saddamarbaa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
