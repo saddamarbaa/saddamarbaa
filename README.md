@@ -89,3 +89,20 @@
 
 
 
+
+---
+
+### 📺  latest Blog posts
+
+<!-- YOUTUBE:START -->
+
+- [Reasons Why You Need To Be A Frontend Developer in 2021](https://saddamarbaa-blog.netlify.app/)
+- [TheCleverFoxAcademy | Let's Play Flexbox Froggy 🐸](https://youtu.be/pPsNifT-KnE)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC2LtAgqRIhNs3cVrPYLGheQ)
+
+---
+
+
+
