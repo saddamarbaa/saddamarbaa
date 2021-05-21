@@ -82,27 +82,18 @@
 <a href="https://saddamarbaa-blog.netlify.app/">Blog posts</a>
 
 
-<!-- # latest Blog posts -->
+
+<h3> 📺 &nbsp;latest Blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-
-
-
----
-
-### 📺  latest Blog posts
-
-<!-- YOUTUBE:START -->
-
-- [Reasons Why You Need To Be A Frontend Developer in 2021](https://saddamarbaa-blog.netlify.app/)
-- [TheCleverFoxAcademy | Let's Play Flexbox Froggy 🐸](https://youtu.be/pPsNifT-KnE)
+- [Looking for new opportunities](https://saddamarbaa-blog.netlify.app/post.html?id=60a58962572a8f0015a45118)
+- [Why learning coding is important?](https://saddamarbaa-blog.netlify.app/post.html?id=6089c04949f917284cc6fb15)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC2LtAgqRIhNs3cVrPYLGheQ)
+➡️ [more Blog posts...](https://saddamarbaa-blog.netlify.app/)
 
----
+<!-- BLOG-POST-LIST:END -->
 
 
 
