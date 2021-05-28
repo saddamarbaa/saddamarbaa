@@ -14,7 +14,6 @@
 - 💻 &nbsp; My portfolio https://saddam-arbaa.web.app/
 - 💻 &nbsp; Coding mentor.
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
-- 📝 &nbsp; Documenting my coding journey.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
 - 🎓 &nbsp; Studying Profit with JavaScript Course at https://www.cleverprogrammer.com/.
 - 🎓 &nbsp; Studying CS50: Harvard University's introduction to Computer Science at https://www.edx.org/course/cs50s-introduction-to-computer-science.
