@@ -90,7 +90,7 @@
 - [I LOVE JavaScript](https://saddamarbaa-blog.netlify.app/post.html?id=6089c0d249f917284cc6fb16)
 <!-- YOUTUBE:END -->
 
-➡️ [more Blog posts...](https://saddamarbaa-blog.netlify.app/)
+ [more Blog posts...](https://saddamarbaa-blog.netlify.app/)
 
 <!-- BLOG-POST-LIST:END -->
 
