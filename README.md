@@ -88,9 +88,9 @@
 - [Looking for new opportunities](https://saddamarbaa-blog.netlify.app/post.html?id=6089c42649f917284cc6fb18)
 - [Why learning coding is important?](https://saddamarbaa-blog.netlify.app/post.html?id=6089c04949f917284cc6fb15)
 - [I LOVE JavaScript](https://saddamarbaa-blog.netlify.app/post.html?id=6089c0d249f917284cc6fb16)
+ - [[more Blog posts...](https://saddamarbaa-blog.netlify.app/)
 <!-- YOUTUBE:END -->
 
- [more Blog posts...](https://saddamarbaa-blog.netlify.app/)
 
 <!-- BLOG-POST-LIST:END -->
 
