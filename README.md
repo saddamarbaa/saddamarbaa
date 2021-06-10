@@ -74,25 +74,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/ArbaaSaddam/)
 </p>
 
-<!--TODO -->
-<!-- will add my webside blow here  -->
-
-<a href="https://saddamarbaa-blog.netlify.app/">Blog posts</a>
-
-
-
-<!-- <h3> 📺 &nbsp;latest Blog posts</h3> -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [Looking for new opportunities](https://saddamarbaa-blog.netlify.app/post.html?id=6089c42649f917284cc6fb18)
-- [Why learning coding is important?](https://saddamarbaa-blog.netlify.app/post.html?id=6089c04949f917284cc6fb15)
-- [I LOVE JavaScript](https://saddamarbaa-blog.netlify.app/post.html?id=6089c0d249f917284cc6fb16)
-- [[more Blog posts...](https://saddamarbaa-blog.netlify.app/) -->
-<!-- YOUTUBE:END -->
-
-
-<!-- BLOG-POST-LIST:END -->
 
 
 
