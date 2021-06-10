@@ -11,7 +11,7 @@
 
 <h3>  💻 &nbsp; More About Me </h3>
 
-- 💻 &nbsp; My portfolio https://saddam-arbaa.web.app/
+- 💻 &nbsp; My portfolio https://saddam-portfolio.web.app
 - 💻 &nbsp; Coding mentor.
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
@@ -81,14 +81,14 @@
 
 
 
-<h3> 📺 &nbsp;latest Blog posts</h3>
+<!-- <h3> 📺 &nbsp;latest Blog posts</h3> -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Looking for new opportunities](https://saddamarbaa-blog.netlify.app/post.html?id=6089c42649f917284cc6fb18)
+<!-- - [Looking for new opportunities](https://saddamarbaa-blog.netlify.app/post.html?id=6089c42649f917284cc6fb18)
 - [Why learning coding is important?](https://saddamarbaa-blog.netlify.app/post.html?id=6089c04949f917284cc6fb15)
 - [I LOVE JavaScript](https://saddamarbaa-blog.netlify.app/post.html?id=6089c0d249f917284cc6fb16)
- - [[more Blog posts...](https://saddamarbaa-blog.netlify.app/)
+- [[more Blog posts...](https://saddamarbaa-blog.netlify.app/) -->
 <!-- YOUTUBE:END -->
 
 
