@@ -1,13 +1,9 @@
-<!-- @format -->
-
-###
-
-
- <img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300"/>
- </p>
 
 
 <h2>  Hi there! 👋 I'm Saddam Arbaa. </h2>
+<p>
+ <img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300"/>
+ </p>
   I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
  the appropriate Programming language and frameworks.
