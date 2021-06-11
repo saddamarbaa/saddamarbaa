@@ -8,7 +8,9 @@
 
 <p>
 <h2>  Hi there! 👋 I'm Saddam Arbaa. </h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+ 
 </P>
   I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
