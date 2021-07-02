@@ -14,7 +14,7 @@
 <h2>  Hi there! 👋 I'm Saddam Arbaa. </h2>
  
  
-  I am an enthusiastic software developer, hard worker, problem solver and fast learner.<br> 
+  I am an enthusiastic software developer, hard worker, problem solver and fast learner,<br> 
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
  the appropriate Programming language and frameworks.
 
@@ -23,9 +23,9 @@
 -  💻 &nbsp; My portfolio https://saddam-portfolio.web.app
 -  💻 &nbsp; Peer Success Mentor at Clever Programmer.
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
--  🌱 &nbsp; Learning more about Data Structures and Algorithms.
--  👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
--  🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects
+-  🌱 &nbsp; Learning more Data Structures and Algorithms.
+-  👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful.
+-  🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack, Contribute to Open Source projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
