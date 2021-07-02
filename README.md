@@ -21,7 +21,7 @@
 <h3>  💻 &nbsp; More About Me </h3>
 
 -  💻 &nbsp; My portfolio https://saddam-portfolio.web.app
--  💻 &nbsp Peer Success Mentor at Clever Programmer.
+-  💻 &nbsp; Peer Success Mentor at Clever Programmer.
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
 -  🌱 &nbsp; Learning more about Data Structures and Algorithms.
 -  👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
