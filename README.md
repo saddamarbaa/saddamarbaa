@@ -18,12 +18,19 @@
  I always ensure the fast delivery of the functional well organized and clean code using <br> 
  the appropriate Programming language and frameworks.
 
+
+
 <h3>  💻 &nbsp; More About Me </h3>
--  💻 &nbsp; Full Stack Developer
+<!-- -  💻 &nbsp; My Portfolio https://www.saddamarbaa.com 
+-  💻 &nbsp; Full Stack Developer at Phoenix Software Solution.  
+-  💻 &nbsp; Peer Success Mentor at Clever Programmer.  
+-  💻 &nbsp; Full Stack Developer  -->
+-  💻 My Portfolio https://www.saddamarbaa.com
+-  💻 &nbsp; Software Engineer at RushOwl Singapore
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
 -  🌱 &nbsp; Learning more Data Structures and Algorithms.
 -  👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful.
--  🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack, Contribute to Open Source projects.
+-  🎓 &nbsp; 2021 Goals: learn React Native, Maste MERN Stack, Contribute to Open Source projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
