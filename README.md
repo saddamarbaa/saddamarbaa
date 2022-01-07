@@ -19,9 +19,6 @@
  the appropriate Programming language and frameworks.
 
 <h3>  💻 &nbsp; More About Me </h3>
--  💻 &nbsp; My Portfolio https://www.saddamarbaa.com 
--  💻 &nbsp; Full Stack Developer at Phoenix Software Solution.  
--  💻 &nbsp; Peer Success Mentor at Clever Programmer. 
 -  💻 &nbsp; Full Stack Developer
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
 -  🌱 &nbsp; Learning more Data Structures and Algorithms.
