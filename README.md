@@ -26,8 +26,9 @@
 -  💻 &nbsp; Full Stack Developer at Phoenix Software Solution.  
 -  💻 &nbsp; Peer Success Mentor at Clever Programmer.  
 -  💻 &nbsp; Full Stack Developer  -->
--  💻 My Portfolio https://www.saddamarbaa.com
+-  🌏 My Portfolio https://www.saddamarbaa.com
 -  💻 &nbsp; Software Engineer at RushOwl Singapore
+-  👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments.
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
 -  🌱 &nbsp; Learning more Data Structures and Algorithms.
 -  👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful.
@@ -70,6 +71,19 @@
 </p>
 
 <br/>
+
+
+
+## 📈 Github stats
+
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+
+<a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=saddamarbaa&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+  <br/>
+    <br/>
+
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
