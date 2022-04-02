@@ -44,7 +44,6 @@
 - <b>Blockchain</b> : Smart contract | Solidity | NFT | Ethereum | thirdweb
 - <b>Others</b> : Swagger | Devops 
 - Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on. 
-<br/>
 
 <h3> 🛠 &nbsp;My Top Skills</h3>
 
@@ -91,7 +90,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab">
     </td>
     <td>
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" width="100" alt="Github"></td>
+    <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express"></td>
     </tr>
 </table>
 
@@ -106,9 +105,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamarbaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <br/>
 
+## 📈 Github stats
+
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+
+<a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=saddamarbaa&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
+<br/>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -125,13 +130,6 @@
 </p>
 
 
-## 📈 Github stats
 
-<!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
 
-<a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=saddamarbaa&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
-<br/>
-   
-
-![](./gifs/code.gif)
+<!-- ![](./gifs/code.gif) -->
