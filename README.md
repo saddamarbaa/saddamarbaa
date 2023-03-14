@@ -32,7 +32,7 @@
 -  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
 -  🌱 &nbsp; Learning more Data Structures and Algorithms.
 -  👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful.
--  🎓 &nbsp; 2022 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects.
+-  🎓 &nbsp; 2023 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
