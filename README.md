@@ -1,49 +1,34 @@
 <p>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
- 
+<a href="https://www.linkedin.com/in/saddamarbaa/">
+  <img
+    alt="Helping people make the world a better place through quality software"
+    src="/images/banner-01.jpg"
+  />
+</a>
 </P>
 
-<p>
- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
- </p>
- 
- 
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/saddamarbaa/" target="_blank"> Saddam Arbaa </a></h1>
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
+</h3>
 
-
-<h2>  Hi there! 👋 I'm Saddam Arbaa. </h2>
- 
- 
- I am an enthusiastic software developer, hard worker, problem solver and fast learner,<br> 
- I always ensure the fast delivery of the functional well organized and clean code using 
- the appropriate Programming language and frameworks.
-
-
-
-<h3>  💻 &nbsp; More About Me </h3>
-
-<!-- -  💻 &nbsp; My Portfolio https://www.saddamarbaa.com 
--  💻 &nbsp; Full Stack Developer at Phoenix Software Solution.  
--  💻 &nbsp; Peer Success Mentor at Clever Programmer.  
--  💻 &nbsp; Full Stack Developer  -->
-<!-- - -  🌏 My Portfolio https://www.saddamarbaa.com  -->
--  💻 &nbsp; Software Engineer at RushOwl Singapore
--  👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments.
--  ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
--  🌱 &nbsp; Learning more Data Structures and Algorithms.
--  👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful.
--  🎓 &nbsp; 2023 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects.
-
+- 👨‍💻 &nbsp; Check out my portfolio : https://www.saddamarbaa.com
+- 💻 &nbsp; Software Engineer at RushOwl Singapore
+- 👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments
+- ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
+- 🌱 &nbsp; Learning more Data Structures and Algorithms
+- 👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful
+- 🎓 &nbsp; 2023 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- <b>Front-end</b> : Reactjs | Next.js | Remix | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>Back-end</b> : Node | Express | NestJS 
-- <b>Mobile</b> : React-Native 
-- <b>Database</b> : MongoDB | Firebase | Firestore | Mysql 
-- <b>Blockchain</b> : Smart contract | Solidity | NFT | Ethereum | thirdweb
-- <b>Others</b> : Swagger | Devops 
-- Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on. 
+- <b>Front-end</b> : Reactjs | Next.js | TypeScript | TailWind CSS | Material | Styled Components
+- <b>Back-end</b> : Node | Express | NestJS
+- <b>Mobile</b> : React-Native
+- <b>Database</b> : MongoDB | Firebase | Mysql
+- <b>Others</b> : Swagger | Devops
+- Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on
 
 <h3> 🛠 &nbsp;My Top Skills</h3>
 
@@ -94,8 +79,6 @@
     </tr>
 </table>
 
-
-
 <br/>
 
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
@@ -105,7 +88,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamarbaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br/>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamarbaa&theme=dark" alt="jigar-sable" /></p>
+ </div>
 
 ## 📈 Github stats
 
@@ -114,7 +100,6 @@
 
 <a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=saddamarbaa&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
 <br/>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -128,8 +113,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/ArbaaSaddam/)
 
 </p>
-
-
-
 
 <!-- ![](./gifs/code.gif) -->
