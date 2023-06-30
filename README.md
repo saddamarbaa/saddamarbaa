@@ -81,7 +81,7 @@
 
 <br/>
 
-<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+## 📊 My Github Stats
 <p align="center">
 <a href="https://github.com/saddamarbaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamarbaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -93,13 +93,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamarbaa&theme=dark" alt="jigar-sable" /></p>
  </div>
 
-## 📈 Github stats
-
-<!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
-
-<a href="https://www.saddamarbaa.com/"><img src="https://activity-graph.herokuapp.com/graph?username=saddamarbaa&amp;theme=rogue&amp;bg_color=1F222E&amp;color=F85D7F" /> </a>
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
