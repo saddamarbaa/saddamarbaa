@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
 </h3>
 
-- 👨‍💻 &nbsp; Check out my portfolio : https://www.saddamarbaa.com
+- 👨‍💻 &nbsp; Check out my portfolio : https://portfolio-react-529g.vercel.app
 - 💻 &nbsp; Software Engineer at RushOwl Singapore
 - 👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
