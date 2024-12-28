@@ -14,12 +14,13 @@
 </h3>
 
 - 👨‍💻 &nbsp; Check out my portfolio : https://portfolio-react-529g.vercel.app
-- 💻 &nbsp; Software Engineer at RushOwl Singapore
+- 💻 &nbsp; **Currently Seeking New Job Opportunities**
+- 👯 &nbsp; Former Software Engineer at RushOwl, Singapore
 - 👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
 - 🌱 &nbsp; Learning more Data Structures and Algorithms
 - 👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful
-- 🎓 &nbsp; 2023 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects
+- 🎓 &nbsp; 2025 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -81,6 +82,20 @@
 
 <br/>
 
+
+<h3> 🌟 Projects </h3>
+
+- **[An Open-Source Blog REST API](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api/):** An open-source REST API with features like **user authentication** using **JWT access and refresh tokens**, **password reset**, **email verification**, full **post CRUD operations**, **commenting**, **liking**, **reviews**, **user blocking**, and **admin controls**. It also includes **post and user activity tracking**, **search**, **pagination**, **filtering**, **rate limiting**, **content moderation**, **privacy settings**, and **notification management**.
+  
+- **[Developer Match API](https://github.com/saddamarbaa/node-express-mongodb-developer-match-rest-api/):** An open-source platform for developers to **connect**, **collaborate**, and **find coding partners**. Key features include **profile creation**, **skill-based match-making**, **connection requests**, and **JWT authentication**. It also supports **real-time notifications**, **search filters**, and **admin management** for user accounts.
+
+- **[E-commerce & Social Media API](https://github.com/saddamarbaa/node-express-mongodb-typescript-ecom-social-rest-api):** An open-source RESTful API that integrates **user authentication**, **e-commerce management**, and **social media post management**. Key features include **filters**, **pagination**, **sorting**, **search capabilities** for both products and posts, along with customer and order management, payment processing, **PDF upload**, and inventory tracking.
+
+- **[Personal Portfolio](https://portfolio-react-529g.vercel.app):** A personal portfolio built with React to showcase my projects and skills. **Check it out for more projects!**
+
+
+
+
 <h3> 📊 My Github Stats </h3>
 <p align="center">
 <a href="https://github.com/saddamarbaa">
@@ -106,5 +121,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/ArbaaSaddam/)
 
 </p>
+
+
+Thanks for stopping by! 😊  
+[![](https://visitcount.itsvg.in/api?id=saddamarbaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- ![](./gifs/code.gif) -->
