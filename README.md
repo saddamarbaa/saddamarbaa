@@ -13,16 +13,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
 </h3>
 
-- 👨‍💻 &nbsp; Check out my portfolio : https://portfolio-react-529g.vercel.app
+- 👨‍💻 &nbsp; Portfolio Project: [https://portfolio-react-529g.vercel.app](https://portfolio-react-529g.vercel.app)
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**
 - 👯 &nbsp; Former Software Engineer at RushOwl, Singapore
 - 👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments
 - ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
-- 🌱 &nbsp; Learning more Data Structures and Algorithms
-- 👯 &nbsp; Looking forward to collaborate on any Open Source project which I consider interesting or useful
-- 🎓 &nbsp; 2025 Goals: learn React Native, Complete MERN Stack, Contribute to Open Source projects
+- 🌱 &nbsp; Continuously learning **Data Structures**, **Algorithms**, and **System Design**
+- 💻 &nbsp; Looking for contributors for my **[Open Source REST API](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api)** project
+- 👯 &nbsp;  Looking forward to collaborate on any Open Source project which I consider interesting or useful
+- 🎓 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and contribute to Open Source
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
+
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - <b>Front-end</b> : Reactjs | Next.js | TypeScript | TailWind CSS | Material | Styled Components
 - <b>Back-end</b> : Node | Express | NestJS
@@ -31,7 +34,7 @@
 - <b>Others</b> : Swagger | Devops
 - Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on
 
-<h3> 🛠 &nbsp;My Top Skills</h3>
+<h2> 🛠 &nbsp;My Top Skills</h2>
 
 <table>
     <tr>
@@ -80,10 +83,12 @@
     </tr>
 </table>
 
-<br/>
 
+<h2>‍🎃 Coding Profile </h2>
 
-<h3> 🌟 Projects </h3>
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saddamarbaa/)
+
+<h2> 🌟 Projects </h2>
 
 - **[An Open-Source Blog REST API](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api/):** An open-source REST API with features like **user authentication** using **JWT access and refresh tokens**, **password reset**, **email verification**, full **post CRUD operations**, **commenting**, **liking**, **reviews**, **user blocking**, and **admin controls**. It also includes **post and user activity tracking**, **search**, **pagination**, **filtering**, **rate limiting**, **content moderation**, **privacy settings**, and **notification management**.
   
@@ -95,8 +100,7 @@
 
 
 
-
-<h3> 📊 My Github Stats </h3>
+<h2> 📊 My Github Stats </h2>
 <p align="center">
 <a href="https://github.com/saddamarbaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamarbaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -109,7 +113,7 @@
  </div>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p>
 <a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
