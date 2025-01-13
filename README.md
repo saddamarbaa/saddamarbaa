@@ -38,48 +38,56 @@
 
 <table>
     <tr>
-    <td>
-    <img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript">
-    </td>
-    <td>
-    <img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript">
-    </td>
-    <td>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js">
-    </td>
-    <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
-    </td>
-    <td>
-    <img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux">
-    </td>
-    <td>
-    <img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js">
-    </td>
-    <td>
-    <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB">
-    </td>
+        <td>
+            <img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript">
+        </td>
+        <td>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js">
+        </td>
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
+        </td>
+        <td>
+            <img src="https://redux.js.org/img/redux-logo-landscape.png" title="Redux" width="100" alt="Redux">
+        </td>
+        <td>
+            <img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" title="React Query" width="100" alt="React Query">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="Node.js">
+        </td>
+        <td>
+            <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB">
+        </td>
     </tr>
     <tr>
-    <td>
-    <img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
-    <td>
-    <img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3">
-    </td>
-    <td>
-    <img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap">
-    </td>
-    <td>
-    <img src="https://image.pngaaa.com/388/3920388-middle.png" title="Tailwind CSS" width="100" alt="Tailwind CSS">
-    </td>
-    <td>
-    <img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git">
-    </td>
-    <td>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab">
-    </td>
-    <td>
-    <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express"></td>
+        <td>
+            <img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap">
+        </td>
+        <td>
+            <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo-thumbnail.png" title="Tailwind CSS" width="100" alt="Tailwind CSS">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git">
+        </td>
+        <td>
+            <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="GitLab" width="100" alt="GitLab">
+        </td>
+        <td>
+            <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
+        </td>
+        <td>
+            <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" title="Java" width="100" alt="Java">
+        </td>
     </tr>
 </table>
 
