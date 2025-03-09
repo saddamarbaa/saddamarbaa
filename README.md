@@ -99,9 +99,8 @@
 </picture>
 
 
-<picture>
  <img alt="Saddam's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saddamarbaa&theme=react-dark" />
-</picture>
+
 
 
 
