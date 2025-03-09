@@ -99,6 +99,13 @@
 </picture>
 
 
+<picture>
+ <img alt="Saddam's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saddamarbaa&theme=react-dark" />
+</picture>
+
+
+
+
 <h2>‍🎃 Coding Profile </h2>
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/saddamarbaa/)
@@ -142,8 +149,16 @@
 </p>
 
 
-Thanks for stopping by! 😊  
-[![](https://visitcount.itsvg.in/api?id=saddamarbaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--Thanks for stopping by! 😊  -->
+<!--[![](https://visitcount.itsvg.in/api?id=saddamarbaa&icon=0&color=0)](https://visitcount.itsvg.in)-->
+
+
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
 
 
 
