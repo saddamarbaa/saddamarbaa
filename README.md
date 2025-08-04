@@ -13,15 +13,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
 </h3>
 
-- 👨‍💻 &nbsp; Portfolio Project: [https://portfolio-react-529g.vercel.app](https://portfolio-react-529g.vercel.app)
+<!-- - 👨‍💻 &nbsp; Portfolio Project: [https://portfolio-react-529g.vercel.app](https://portfolio-react-529g.vercel.app) -->
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**
 - 👯 &nbsp; Former Software Engineer at RushOwl, Singapore
 - 👯 &nbsp; I’m interested in keeping up-to-date with latest technological developments
-- ✍🏻 &nbsp; Decent competitive programming, DSA, Algo skills
+- ✍🏻 &nbsp; Strong foundation in **competitive programming**, **DSA**, and algorithm optimization  
 - 🌱 &nbsp; Continuously learning **Data Structures**, **Algorithms**, and **System Design**
-- 💻 &nbsp; Looking for contributors for my **[Open Source REST API](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api)** project
+- 💻 &nbsp; Building [**Open Source REST API**](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api) (contributors welcome!) 
 - 👯 &nbsp;  Looking forward to collaborate on any Open Source project which I consider interesting or useful
-- 🎓 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and contribute to Open Source
+- 🎯 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and build **AI-integrated applications** 
 
 
 
