@@ -130,7 +130,7 @@
 
 - **[E-commerce & Social Media API](https://github.com/saddamarbaa/node-express-mongodb-typescript-ecom-social-rest-api):** An open-source RESTful API that integrates **user authentication**, **e-commerce management**, and **social media post management**. Key features include **filters**, **pagination**, **sorting**, **search capabilities** for both products and posts, along with customer and order management, payment processing, **PDF upload**, and inventory tracking.
 
-- **[Personal Portfolio](https://portfolio-react-529g.vercel.app):** A personal portfolio built with React to showcase my projects and skills. **Check it out for more projects!**
+<!-- - **[Personal Portfolio](https://portfolio-react-529g.vercel.app):** A personal portfolio built with React to showcase my projects and skills. **Check it out for more projects!** -->
 
 
 
