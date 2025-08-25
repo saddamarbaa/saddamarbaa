@@ -16,7 +16,7 @@
 
 
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**  
-- 👯 &nbsp; Former Software Engineer at RushOwl, Singapore  
+- 👯 &nbsp; Former Software Engineer at [RushOwl, Singapore](https://rushowl.sg)
 - 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, computer vision, and generative AI  
 - 📚 &nbsp; Currently learning **ML fundamentals** while applying AI tools in practical projects  
 - 👯 &nbsp; Interested in keeping up-to-date with **AI advancements** and latest tech developments  
