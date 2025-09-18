@@ -1,11 +1,11 @@
-<p>
+<!-- <p>
 <a href="https://www.linkedin.com/in/saddamarbaa/">
   <img
     alt="Helping people make the world a better place through quality software"
     src="/images/banner-01.jpg"
   />
 </a>
-</P>
+</P> -->
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/saddamarbaa/" target="_blank"> Saddam Arbaa </a></h1>
 <h3 align="center">
