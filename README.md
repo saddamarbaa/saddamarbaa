@@ -14,9 +14,10 @@
 </h3>
 
 
-
 - 💻 &nbsp; **Currently Seeking New Job Opportunities**  
 - 👯 &nbsp; Former Software Engineer at [**RushOwl, Singapore**](https://rushowl.sg)
+- 🌍 &nbsp; Based in **Kelowna, Canada**  
+- 💬 &nbsp; Contact me: [**saddamarbaas@gmail.com**](mailto:saddamarbaas@gmail.com) 
 - 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, computer vision, and generative AI  
 - 📚 &nbsp; Currently learning **ML fundamentals** while applying AI tools in practical projects  
 - 👯 &nbsp; Interested in keeping up-to-date with **AI advancements** and latest tech developments  
@@ -25,6 +26,8 @@
 - 💻 &nbsp; Building [**Open Source REST API**](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api) (contributors welcome!)  
 - 🤝 &nbsp; Looking to collaborate on **AI/ML projects** or any impactful Open Source work  
 - 🎯 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and build **AI-integrated applications** 
+
+
 
 <!-- - 👨‍💻 &nbsp; Portfolio Project: [https://portfolio-react-529g.vercel.app](https://portfolio-react-529g.vercel.app) -->
 <!-- - 💻 &nbsp; **Currently Seeking New Job Opportunities** -->
