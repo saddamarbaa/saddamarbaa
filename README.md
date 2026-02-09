@@ -14,18 +14,21 @@
 </h3>
 
 
-- 💻 &nbsp; **Currently Seeking New Job Opportunities**  
-- 👯 &nbsp; Former Software Engineer at [**RushOwl, Singapore**](https://rushowl.sg)
-- 🌍 &nbsp; Based in **Kelowna, Canada**  
-- 💬 &nbsp; Contact me: [**saddamarbaas@gmail.com**](mailto:saddamarbaas@gmail.com) 
-- 🤖 &nbsp; Passionate about **AI/ML** – exploring LLMs, computer vision, and generative AI  
-- 📚 &nbsp; Currently learning **ML fundamentals** while applying AI tools in practical projects  
-- 👯 &nbsp; Interested in keeping up-to-date with **AI advancements** and latest tech developments  
-- ✍🏻 &nbsp; Strong foundation in **competitive programming**, **DSA**, and algorithm optimization  
-- 🌱 &nbsp; Continuously learning **System Design** with AI-powered applications in mind  
-- 💻 &nbsp; Building [**Open Source REST API**](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api) (contributors welcome!)  
-- 🤝 &nbsp; Looking to collaborate on **AI/ML projects** or any impactful Open Source work  
-- 🎯 &nbsp; **2025 Goals**: Master **React Native**, complete **MERN Stack**, and build **AI-integrated applications** 
+- 💼 **Result-oriented Software Engineer** with **3+ years of full-time experience** (plus internships) building scalable **web & mobile applications** used by **thousands to millions of users**
+- 👯 Former **Software Engineer at [RushOwl, Singapore](https://rushowl.sg)**
+- 🌍 Based in **Kelowna, Canada**
+- 💻 **Open to opportunities** — Full Stack, Backend, Frontend, and AI-focused roles
+- 🧠 Strong foundation in **Computer Science**, **DSA**, **competitive programming**, and **system design**
+- 🛠️ Experienced across **Frontend, Backend, and Full-Stack development**
+- 🤖 Passionate about **AI/ML** — exploring **LLMs, Generative AI, and AI-powered applications**
+- 🌱 Currently deepening skills in **AI engineering**, **modern backend architectures**, and **scalable systems**
+- ✨ I care deeply about **clean code**, **performance**, **maintainability**, and **user experience**
+- 🤝 Enjoy collaborating with cross-functional teams and contributing to **impactful open-source projects**
+- 💻 Building [**Open Source REST API**](https://github.com/saddamarbaa/node-express-mongodb-typescript-blog-rest-api) (contributors welcome!)  
+
+- 🎯 &nbsp; **2026 Goals**: Deepen expertise in **AI engineering** and **modern backend architectures**, while actively exploring **Go**, **Rust**, and **Solana**
+
+
 
 
 
@@ -43,12 +46,16 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- <b>Front-end</b> : Reactjs | Next.js | TypeScript | TailWind CSS | Material | Styled Components
-- <b>Back-end</b> : Node | Express | NestJS
-- <b>Mobile</b> : React-Native
-- <b>Database</b> : MongoDB | Firebase | Mysql
-- <b>Others</b> : Swagger | Devops
-- Git, Github, GitLab, Heroku, Vercel, Netlify, Hostinger, Jira, Slack, and so on
+
+- **Programming Languages:** JavaScript | TypeScript | Python | Java | Rust | C
+- **Front-end:** React.js | Next.js | Tailwind CSS | Material UI | Styled Components
+- **Back-end:** Node.js | Express | NestJS
+- **Mobile Development:** React Native
+- **Databases:** MongoDB | Firebase | MySQL
+- **AI & ML:** Machine Learning | Deep Learning | Neural Networks | NLP | Computer Vision | Generative AI | LLM
+- **Blockchain:** Solana Development (Token Creation | Token Transfers | Client-side Integration | NFT Creation | On-chain Programs)
+- **DevOps & Tools:** Git | GitHub | GitLab | Heroku | Vercel | Netlify | Hostinger | Swagger | Jira | Slack
+
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
